@@ -1,8 +1,8 @@
 # Discord-bot
 Basic Discord bot with command handler
 
-Requires Node.js
-has discord.js, sqrap.js installed 
+Requires Node.js,
+Uses discord.js, sqrap.js installed 
 
 Has a Command Handler builtIn which is easy to add new commands to with a switch case
 
