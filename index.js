@@ -10,7 +10,7 @@ for(const file of commandFiles){
     commands.set(command.name, command);
 }
 
-const Token = 'Njg4NTMxMTYxNzgxMzcxMDMy.Xm1qrA.rJeAEF7WModlKGurhQNFkUQ-kQM'; //Login Token For Bot
+const Token = 'Your Token'; //Login Token For Bot
 const prefix = '$';
 
 var Version = '1.0.5';
