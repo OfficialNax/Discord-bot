@@ -9,14 +9,14 @@ Has a Command Handler builtIn which is easy to add new commands to with a switch
 Uses sqrap.js to webscrape the 'https://blog.counter-strike.net/index.php/category/updates/' 
 to read newest updates and display them in an embed in discord
 
-Features planning on adding-
+Features planning on adding :
   - Per Role commands (eg: clear command only for select roles)
   - User Leveling system
   - Auto-Roles
   - Settings Menu
   - Music Bot Functionallity
  
-Current Commands
+Current Commands :
   - $csgo
   - $info x
     - Author
