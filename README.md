@@ -31,8 +31,8 @@ Current Commands :
   - $poll x
   - $website
   
-  Will Do a welcome message to new people joining the server
-    - This will automatically use a text-channel called 'welcome', 
-    if cannot find this channel then will use the 'general' text-channel
+  Will Do a welcome message to new people joining the server :
+   - This will automatically use a text-channel called 'welcome', 
+   if cannot find this channel then will use the 'general' text-channel
   
   
