@@ -11,10 +11,14 @@ to read newest updates and display them in an embed in discord
 
 Features planning on adding :
   - Per Role commands (eg: clear command only for select roles)
-  - User Leveling system
+  - User Leveling System
   - Auto-Roles
   - Settings Menu
   - Music Bot Functionallity
+  - Easy Admin Powers
+    - Mutes
+    - Kicks
+    - Bans
  
 Current Commands :
   - $csgo
