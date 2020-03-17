@@ -9,16 +9,21 @@ Has a Command Handler builtIn which is easy to add new commands to with a switch
 Uses sqrap.js to webscrape the 'https://blog.counter-strike.net/index.php/category/updates/' 
 to read newest updates and display them in an embed in discord
 
+#NOTE:
+  - Within your discord server, #welcome text-chat is advised as being availble (For Welcome Messages)
+  - Within your discord server, #csgo text-chat is advised as being availble    (For CS:GO Updates Bot)
+
+
 Features planning on adding :
   - Per Role commands (eg: clear command only for select roles)
-  - User Leveling System
+  - User Leveling System (Added Admin Check For Certain Commands)
   - Auto-Roles
   - Settings Menu
   - Music Bot Functionallity
   - Easy Admin Powers
     - Mutes
-    - Kicks
-    - Bans
+    - Kicks (Added)
+    - Bans  (Added)
  
 Current Commands :
   - $csgo
